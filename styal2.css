@@ -1,0 +1,43 @@
+#benner{
+	width: 100%;
+	height: 900px;
+}
+
+div{
+	width: 500px;
+	border: 2px solid black;
+	padding: 2%;
+}
+
+#image1{
+	width: 100%;
+}
+
+#image1:hover{
+	opacity: 0.8;
+	border: 4px solid black;
+}
+
+h2{
+	font-size: 200%;
+	color: darkred;
+}
+
+p{
+	font-size: 150%;
+	line-height: 35px;
+}
+
+#button{
+	background-color: grey;
+	padding: 20px;
+	border-radius: 30px;
+	width: 30%;
+	text-align: center;
+
+}
+
+#button:hover{
+	background-color: darkgrey;
+	color: white;
+}
