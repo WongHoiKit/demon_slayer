@@ -2,7 +2,7 @@ h1{
 	color: floralwhite;
 	font-size: 500%;
 	text-align: left;
-	transform: translate(10%, 455%);
+	transform: translate(10%, 255%);
 }
 
 #demon_slayer{
@@ -74,7 +74,7 @@ h1{
 	background-color: floralwhite;
 	padding: 19px;
 	border-radius: 10px;
-	transform: translate(30%, 800%);
+	transform: translate(30%, 600%);
 }
 
 #cards{
